@@ -1,0 +1,3 @@
+- 👋 Hi everyone! I´m Álvaro and I´m a full stack developer, although more focused on the front end, since in addition to programming I'm also very good at the UX/UI part🎨
+- ⌨️ I have been programming for two years, and now I am interested in learning Angular and Vue, since my specialization until now was in React.
+- 💭 Mi idioma nativo es el español. 
