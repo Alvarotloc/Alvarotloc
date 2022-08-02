@@ -1,3 +1,3 @@
 - 👋 Hi everyone! I´m Álvaro and I´m a full stack developer, although more focused on the front end, since in addition to programming I'm also very good at the UX/UI part🎨
-- ⌨️ I have been programming for two years, and I am specialized in React and NextJS.
+- ⌨️ I am specialized in React, NextJS and Angular in front-end technologies.
 - 💭 Mi idioma nativo es el español. 
